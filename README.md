@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! I'm Alexander!  👋
 
 <!--
 **Goldriel/Goldriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--🌱 I’m currently learning C# language and Python
--🔭 I’m currently studying at school 21 in Moscow
--⚡ Fun fact: I have my own way of Ninja 🐱‍👤
+<div>
+<p>-🌱 I’m currently learning C# language and Python </p>
+<p>-🔭 I’m currently studying at school 21 in Moscow </p>
+<p>-⚡ Fun fact: I have my own way of Ninja 🐱‍👤</p>
+</div>
