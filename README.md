@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-<p>-🌱 I’m currently learning C# language and Python </p>
+<p>-🌱 I’m currently learning C#, Go language and Python </p>
 <p>-🔭 I’m currently studying at school 21 in Moscow </p>
 <p>-⚡ Fun fact: I have my own way of Ninja 🥷</p>
 </div>
