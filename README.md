@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 <p>-🔭 I’m currently studying at school 21 in Moscow </p>
 <p>-⚡ Fun fact: I have my own way of Ninja 🥷</p>
 </div>
+
+[![codewars](https://www.codewars.com/users/Elroel/badges/large)](https://www.codewars.com/users/Elroel)
